@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\InstallerActions\bin\Release\InstallerActions.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\InstallerActions\bin\Release\InstallerActions.pdb
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\InstallerActions\obj\Release\InstallerActions.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\InstallerActions\obj\Release\InstallerActions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\InstallerActions\obj\Release\InstallerActions.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\InstallerActions\obj\Release\InstallerActions.pdb

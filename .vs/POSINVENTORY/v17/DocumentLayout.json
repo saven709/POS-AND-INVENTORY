@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|c:\\users\\administrator\\desktop\\capstone v2.0\\capstone\\posinventory\\posinventory\\frmitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\frmitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\frmchangepassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\frmchangepassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\formingredients.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\formingredients.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\frmcreateacc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\frmcreateacc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\frm_report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\frm_report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\list.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\list.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\entry.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\entry.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\cashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\cashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\formsizes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\formsizes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\frm_billprint.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\frm_billprint.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\frm_managefoods.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\frm_managefoods.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\salehistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\salehistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\stockinrecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\stockinrecord.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\cashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\cashier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\adjustment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\adjustment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\posinventory\\editadjustment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ABF4DFF-18F5-4BDF-9CAB-FF65F4E691F3}|POSINVENTORY\\POSINVENTORY.vbproj|solutionrelative:posinventory\\editadjustment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCreateAcc.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\frmCreateAcc.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\frmCreateAcc.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\frmCreateAcc.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\frmCreateAcc.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:40:29.348Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formingredients.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\formingredients.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\formingredients.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\formingredients.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\formingredients.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:40:14.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmitem.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\frmitem.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\frmitem.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\frmitem.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\frmitem.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T20:09:13.367Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmChangepassword.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\frmChangepassword.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\frmChangepassword.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\frmChangepassword.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\frmChangepassword.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:40:27.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_report.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\frm_report.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\frm_report.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\frm_report.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\frm_report.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:40:25.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\List.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\List.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\List.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\List.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T20:17:23.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entry.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Entry.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\Entry.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Entry.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\Entry.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:39:37.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cashier.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Cashier.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\Cashier.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Cashier.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\Cashier.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:41:05.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Form1.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\Form1.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Form1.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:39:39.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "formsizes.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\formsizes.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\formsizes.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\formsizes.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\formsizes.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:40:19.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_BillPrint.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\frm_BillPrint.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\frm_BillPrint.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\frm_BillPrint.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\frm_BillPrint.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:40:21.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frm_ManageFoods.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\frm_ManageFoods.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\frm_ManageFoods.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\frm_ManageFoods.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\frm_ManageFoods.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:40:22.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Login.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\Login.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Login.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T20:22:28.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaleHistory.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\SaleHistory.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\SaleHistory.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\SaleHistory.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\SaleHistory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T20:22:31.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StockinRecord.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\StockinRecord.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\StockinRecord.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\StockinRecord.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\StockinRecord.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T20:22:56.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cashier.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Cashier.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\Cashier.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Cashier.vb",
+              "RelativeToolTip": "POSINVENTORY\\Cashier.vb",
+              "ViewState": "AgIAAM0DAAAAAAAAAAAiwN8DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:45:55.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Adjustment.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Adjustment.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\Adjustment.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Adjustment.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\Adjustment.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:39:11.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Editform.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Editform.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\Editform.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\Editform.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\Editform.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:39:34.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "editadjustment.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\editadjustment.vb",
+              "RelativeDocumentMoniker": "POSINVENTORY\\editadjustment.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\capstone v2.0\\capstone\\POSINVENTORY\\POSINVENTORY\\editadjustment.vb [Design]",
+              "RelativeToolTip": "POSINVENTORY\\editadjustment.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-16T17:39:31.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

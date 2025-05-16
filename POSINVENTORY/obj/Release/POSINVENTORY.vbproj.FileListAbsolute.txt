@@ -1,0 +1,895 @@
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-Black.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-BlackItalic.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-Bold.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-BoldItalic.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-ExtraBold.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-ExtraBoldItalic.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-ExtraLight.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-ExtraLightItalic.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-Italic.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-Light.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-LightItalic.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-Medium.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-MediumItalic.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-Regular.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-SemiBold.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-SemiBoldItalic.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-Thin.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Poppins-ThinItalic.ttf
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\POSINVENTORY.exe.config
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\POSINVENTORY.exe.manifest
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\POSINVENTORY.application
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\POSINVENTORY.exe
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\POSINVENTORY.pdb
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\POSINVENTORY.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Guna.UI.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\MySql.Data.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Buffers.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.IO.Pipelines.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Memory.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ZstdSharp.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\EnvDTE.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\stdole.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Microsoft.MSXML.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Google.Protobuf.pdb
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Google.Protobuf.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\MySql.Data.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Buffers.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.IO.Pipelines.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Memory.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.Adjustment.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.Cashier.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.Category.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.Dashboard.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.editadjustment.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.EditForm.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.Entry.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.Form1.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.formingredients.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.formsizes.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.frmChangepassword.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.frmCreateAcc.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.frmitem.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.frm_BillPrint.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.frm_ManageFoods.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.frm_report.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.List.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.Login.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.Resources.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.SaleHistory.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.StockinRecord.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.UserAccount.resources
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.exe.licenses
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.exe.manifest
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.application
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.CopyComplete
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.exe
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.xml
+C:\Users\Administrator\source\repos\POSInventory\POSINVENTORY\obj\Release\POSINVENTORY.pdb
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Black.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-BlackItalic.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Bold.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-BoldItalic.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ExtraBold.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ExtraBoldItalic.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ExtraLight.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ExtraLightItalic.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Italic.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Light.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-LightItalic.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Medium.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-MediumItalic.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Regular.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-SemiBold.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-SemiBoldItalic.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Thin.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ThinItalic.ttf
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.exe.config
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.exe.manifest
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.application
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.exe
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.pdb
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Buffers.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Memory.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ZstdSharp.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\EnvDTE.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\stdole.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\MySql.Data.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Buffers.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.IO.Pipelines.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Memory.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Adjustment.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Cashier.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Category.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Dashboard.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.editadjustment.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.EditForm.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Entry.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Form1.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.formingredients.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.formsizes.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frmChangepassword.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frmCreateAcc.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frmitem.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frm_BillPrint.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frm_ManageFoods.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frm_report.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.List.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Login.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Resources.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.SaleHistory.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.StockinRecord.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.UserAccount.resources
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.exe.licenses
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.exe.manifest
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.application
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVEN.A8CD6932.Up2Date
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.exe
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.xml
+C:\Users\Administrator\Desktop\capstone v2.0\capstone\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.pdb
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Black.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-BlackItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Bold.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-BoldItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ExtraBold.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ExtraBoldItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ExtraLight.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ExtraLightItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Italic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Light.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-LightItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Medium.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-MediumItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Regular.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-SemiBold.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-SemiBoldItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Thin.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ThinItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.exe.config
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.exe.manifest
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.application
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.exe
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.pdb
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\BCrypt.Net-Next.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Buffers.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Memory.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ZstdSharp.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\EnvDTE.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\stdole.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\BCrypt.Net-Next.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\MySql.Data.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Buffers.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.IO.Pipelines.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Memory.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Adjustment.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Cashier.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Category.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Dashboard.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.editadjustment.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.EditForm.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Entry.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.FlashScreen.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Form1.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.formingredients.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.formsizes.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frmCashierChangepassword.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frmChangepassword.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frmCreateAcc.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frmitem.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frm_BillPrint.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frm_ManageAddons.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frm_ManageFoods.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frm_report.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.fs.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.List.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Login.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Resources.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.SaleHistory.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.StockinRecord.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.UserAccount.resources
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.exe.licenses
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.exe.manifest
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.application
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.exe
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.xml
+C:\Users\Administrator\Desktop\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.pdb
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Black.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-BlackItalic.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Bold.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-BoldItalic.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ExtraBold.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ExtraBoldItalic.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ExtraLight.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ExtraLightItalic.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Italic.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Light.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-LightItalic.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Medium.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-MediumItalic.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Regular.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-SemiBold.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-SemiBoldItalic.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-Thin.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Poppins-ThinItalic.ttf
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.exe.config
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.exe.manifest
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.application
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.exe
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.pdb
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\POSINVENTORY.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\BCrypt.Net-Next.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Guna.UI.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Buffers.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Memory.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ZstdSharp.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\EnvDTE.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\stdole.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\BCrypt.Net-Next.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\MySql.Data.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Buffers.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.IO.Pipelines.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Memory.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Adjustment.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Cashier.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Category.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Dashboard.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.editadjustment.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.EditForm.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Entry.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.FlashScreen.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Form1.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.formingredients.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.formsizes.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frmCashierChangepassword.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frmChangepassword.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frmCreateAcc.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frmitem.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frm_BillPrint.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frm_ManageAddons.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frm_ManageFoods.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.frm_report.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.fs.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.List.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Login.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.Resources.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.SaleHistory.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.StockinRecord.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.UserAccount.resources
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.exe.licenses
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.exe.manifest
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.application
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.exe
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.xml
+C:\Users\Administrator\Desktop\capstone v5\POSINVENTORY\POSINVENTORY\obj\Release\POSINVENTORY.pdb
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-Black.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-BlackItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-Bold.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-BoldItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-ExtraBold.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-ExtraBoldItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-ExtraLight.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-ExtraLightItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-Italic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-Light.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-LightItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-Medium.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-MediumItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-Regular.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-SemiBold.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-SemiBoldItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-Thin.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Poppins-ThinItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\POSINVENTORY.exe.config
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\POSINVENTORY.exe.manifest
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\POSINVENTORY.application
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\POSINVENTORY.exe
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\POSINVENTORY.pdb
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\POSINVENTORY.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\BCrypt.Net-Next.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Buffers.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Memory.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ZstdSharp.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\EnvDTE.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\stdole.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\BCrypt.Net-Next.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\MySql.Data.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Buffers.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.IO.Pipelines.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Memory.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.Adjustment.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.Cashier.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.Category.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.Dashboard.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.editadjustment.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.EditForm.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.Entry.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.FlashScreen.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.Form1.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.formingredients.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.formsizes.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.frmCashierChangepassword.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.frmChangepassword.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.frmCreateAcc.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.frmitem.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.frm_BillPrint.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.frm_ManageAddons.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.frm_ManageFoods.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.frm_report.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.fs.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.List.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.Login.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.Resources.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.SaleHistory.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.StockinRecord.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.UserAccount.resources
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.exe.licenses
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.exe.manifest
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.application
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.exe
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.xml
+C:\Users\Administrator\Desktop\POSINVENTORY - Copy\POSINVENTORY\obj\Release\POSINVENTORY.pdb
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-Black.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-BlackItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-Bold.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-BoldItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-ExtraBold.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-ExtraBoldItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-ExtraLight.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-ExtraLightItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-Italic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-Light.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-LightItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-Medium.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-MediumItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-Regular.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-SemiBold.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-SemiBoldItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-Thin.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Poppins-ThinItalic.ttf
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\POSINVENTORY.exe.config
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\POSINVENTORY.exe.manifest
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\POSINVENTORY.application
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\POSINVENTORY.exe
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\POSINVENTORY.pdb
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\POSINVENTORY.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\BCrypt.Net-Next.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\LiveCharts.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\LiveCharts.WinForms.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\LiveCharts.Wpf.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Buffers.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Memory.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ZstdSharp.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\EnvDTE.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\stdole.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\BCrypt.Net-Next.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\LiveCharts.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\LiveCharts.Wpf.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\MySql.Data.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Buffers.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.IO.Pipelines.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Memory.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.Adjustment.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.Cashier.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.Category.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.Dashboard.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.editadjustment.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.EditForm.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.Entry.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.FlashScreen.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.Form1.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.formingredients.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.formsizes.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.frmBackUp.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.frmCashierChangepassword.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.frmChangepassword.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.frmCreateAcc.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.frmitem.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.frmPopup.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.frm_BillPrint.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.frm_ManageAddons.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.frm_ManageFoods.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.frm_report.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.fs.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.List.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.Login.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.Resources.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.SaleHistory.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.StockinRecord.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.UserAccount.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.exe.licenses
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.exe.manifest
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.application
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.exe
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.xml
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.pdb
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.EntryEdit.resources
+C:\Users\Administrator\Desktop\POSINVENTORYPLUS\POSINVENTORY\obj\Release\POSINVENTORY.PosPopup.resources
